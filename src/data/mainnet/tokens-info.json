@@ -1,5 +1,12 @@
 [
   {
+    "address": "0x6E8c30f31aF6a5a860aCfDd1d312773cFb280B14",
+    "decimals": 8,
+    "imageUrl": "https://raw.githubusercontent.com/FIRULAIX/address-metadata/main/assets/tokens/FIRU.png",
+    "name": "Firulaix",
+    "symbol": "FIRU"
+  },
+    {
     "address": "0x00400fcbf0816bebb94654259de7273f4a05c762",
     "decimals": 18,
     "imageUrl": "https://raw.githubusercontent.com/valora-inc/address-metadata/main/assets/tokens/POOF.png",

@@ -421,5 +421,12 @@
     "imageUrl": "https://raw.githubusercontent.com/valora-inc/address-metadata/main/assets/tokens/PLASTIK.png",
     "name": "Plastik",
     "symbol": "PLASTIK"
+  },
+  {
+    "address": "0x6E8c30f31aF6a5a860aCfDd1d312773cFb280B14",
+    "decimals": 8,
+    "imageUrl": "https://raw.githubusercontent.com/FIRULAIX/address-metadata/main/assets/tokens/FIRU.png",
+    "name": "Firulaix",
+    "symbol": "FIRU"
   }
 ]
